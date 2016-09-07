@@ -2,7 +2,8 @@ import javax.swing.JOptionPane;
 
 /*
    This application will test 2 parralel arrays to get the lowest score.
-*/
+   @author: Samir Giad
+   */
 public class LowestScore 
 {
 
