@@ -1,4 +1,5 @@
 @author: Samir Giad
+
    Description:
    I was asked to create an object-oriented application that prompt the 
    user for a valid name, ID number, hourly pay rate (default rate would 
